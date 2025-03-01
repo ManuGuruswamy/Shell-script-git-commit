@@ -1,2 +1,2 @@
-x=a+b
-Y+a-b
+x=a+b+c
+Y+a-b-c
